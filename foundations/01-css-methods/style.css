@@ -1,0 +1,25 @@
+/* CSS Styling: Exercise #1 */
+
+div,
+p {
+    color: white;
+}
+
+p,
+button {
+    font-size: 18px;
+}
+
+div {
+    background-color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+}
+
+button {
+    background-color: orange;
+}

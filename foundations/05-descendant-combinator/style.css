@@ -1,0 +1,20 @@
+/* CSS Styling: Exercise #5 */
+
+
+/* USING TYPE */
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} 
+
+/* USING CLASS */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+

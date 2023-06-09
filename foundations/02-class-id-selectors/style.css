@@ -1,0 +1,22 @@
+/* CSS Styling: Exercise #2 */
+
+.reg-class,
+.cool-class {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#oneID {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#anotherID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
